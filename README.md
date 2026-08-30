@@ -38,15 +38,10 @@ The project follows the Page Object Model (POM) to keep the automation code orga
 
 ## Project Structure
 
-```text
-Playwright-Automation-Project/
-│
-├── tests/
-├── pages/
-├── playwright.config.js
-├── package.json
-└── README.md
-```
+- example.spec.js (Automated test Scripts)
+- DarazPage.js (POM)
+- playwright.config.js (playwright test runner configuration)
+- README.MD
 
 ## Author
 
