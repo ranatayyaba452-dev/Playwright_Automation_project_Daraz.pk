@@ -38,6 +38,8 @@ The project follows the Page Object Model (POM) to keep the automation code orga
 
 ## Project Structure
 
+'''text
+
 Playwright-Automation-Project/
 │
 ├── tests/
@@ -45,6 +47,8 @@ Playwright-Automation-Project/
 ├── playwright.config.js
 ├── package.json
 └── README.md
+
+'''
 
 ## Author
 
