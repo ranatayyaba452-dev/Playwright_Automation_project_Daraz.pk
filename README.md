@@ -46,6 +46,6 @@ Playwright-Automation-Project/
 ├── package.json
 └── README.md
 
-##Author
+## Author
 
--LAIBA
+- LAIBA
